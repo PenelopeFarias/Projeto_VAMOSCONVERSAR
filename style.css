@@ -1,0 +1,70 @@
+.menu
+{
+    width: 600px;
+    height: 763px;
+    background-color:rgb(80, 80, 104) !important;
+    margin-top: -25px;
+}
+
+.menuImg
+{
+    position: absolute;
+    width: 600px;
+    bottom: 0px;
+    left: 0px;
+   
+}
+
+.title
+{
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    font-family: 'Kalam', cursive;
+    color:rgb(191, 191, 190);
+}
+
+.subtitle
+{
+    position: absolute;
+    top: 160px;
+    left: 40px;
+    font-family: 'Kalam', cursive;
+    color:rgb(191, 191, 190);
+}
+
+.subtitle2
+{
+    position: absolute;
+    top: 200px;
+    left: 220px;
+    font-family: 'Kalam', cursive;
+    color:rgb(191, 191, 190);
+}
+
+body
+{
+    background-color: rgb(36, 36, 36);
+}
+
+.logIn
+{
+    position: absolute;
+    right: 500px;
+    top: 250px;
+}
+
+.logIn
+{
+    font-family: 'Quicksand', sans-serif;
+    color: whitesmoke;
+}
+
+.button
+{
+    border-radius: 10%;
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(29, 29, 29);
+    height: 30px;
+    width: 90px;
+}
